@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Abbas
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel and React.js
-- 💞️ I’m looking to collaborate on inovative ideas related to IT World.
+- 👀 I’m Full Stack developer (Laravel ,Bootstrap ,React Js etc)
+- 🌱 I’m working on laravel , Reactjs/ Nextjs and Python(ML)
+- 💞️ I’m looking to collaborate on React js and laravel projects
 - 📫 Contact me on GitHub
 - 😄 Pronouns: Alvi
 - ⚡ Fun fact: Code lover
